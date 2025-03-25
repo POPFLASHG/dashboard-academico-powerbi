@@ -1,4 +1,4 @@
-# 📊 Dashboard Acadêmico - Power BI (Ainda nao finalizei)  
+# 📊 Dashboard Acadêmico - Power BI (Ainda nao finalizei de documentar)  
 
 Este projeto apresenta um **dashboard interativo no Power BI** para análise do desempenho acadêmico dos alunos.  
 
